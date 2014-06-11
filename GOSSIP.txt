@@ -1,2 +1,4 @@
-GOSSIP.
-YAY.
+echo GOSSIP LOADED,
+echo YAY.
+echo ...
+gossip.exe
