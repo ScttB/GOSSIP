@@ -1,5 +1,5 @@
 {
 echo GOSSIP LOADED,
 gossip.exe
-echo OKAY
+echo Exited gossip.exe
 }
