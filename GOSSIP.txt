@@ -3,3 +3,4 @@ echo GOSSIP LOADED,
 gossip.exe
 echo Exited gossip.exe
 }
+clear
